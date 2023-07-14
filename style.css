@@ -1,0 +1,49 @@
+body{
+    padding: 50px 100px;
+    background-color: #caf0f8;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+}
+h1{
+    text-align: center;
+    text-shadow: 3px -2px;
+    color: darkslateblue;
+    
+}
+
+#container{
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    
+
+}
+
+.inp-div{
+    display: inline-block;
+    position: relative;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+label{
+    font-size: 30px;
+    color: #ff9f1c;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+}
